@@ -1,1 +1,1 @@
-# Handwritten-Digits-Recognition
+# 01-Neural-Network-Project
